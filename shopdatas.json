@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "60e0273d76ac86a3c61f51c4"
+  },
+  "name": "居酒屋丸",
+  "park": 8,
+  "payment": [
+    "現金",
+    "クレジットカード"
+  ],
+  "seatType": [
+    "6人掛けテーブル/４席",
+    "カウンター/8席"
+  ],
+  "phoneNumber": "123-45-6789",
+  "notSmokingSeat": "あり",
+  "adress": "福岡県飯塚市横田123-45",
+  "tag": {
+    "budjet": {
+      "min": 1000,
+      "max": 2000
+    },
+    "numberOfPeople": 4,
+    "genre": "和食",
+    "purpose": "打ち上げ"
+  }
+},{
+  "_id": {
+    "$oid": "60e028ba76ac86a3c61f51c5"
+  },
+  "name": "イタリアレストランvongole",
+  "park": 3,
+  "payment": [
+    "現金",
+    "クレジットカード",
+    "PayPay"
+  ],
+  "seatType": [
+    "4人掛けテーブル/10席"
+  ],
+  "phoneNumber": "123-45-9876",
+  "notSmokingSeat": "なし",
+  "adress": "福岡県福岡市中央区大名1-1-1",
+  "tag": {
+    "budjet": {
+      "min": 2000,
+      "max": 4000
+    },
+    "numberOfPeople": 2,
+    "genre": "イタリアン",
+    "purpose": "会食"
+  }
+},{
+  "_id": {
+    "$oid": "60e029fb76ac86a3c61f51c6"
+  },
+  "name": "らいらい軒",
+  "park": 5,
+  "payment": [
+    "AriPay",
+    "クレジットカード",
+    "PayPay"
+  ],
+  "seatType": [
+    "8人掛けテーブル/6席",
+    "カウンター/5席"
+  ],
+  "phoneNumber": "123-45-1234",
+  "notSmokingSeat": "あり",
+  "adress": "福岡県北九州市小倉北区123-4",
+  "tag": {
+    "budjet": {
+      "min": 1000,
+      "max": 2000
+    },
+    "numberOfPeople": 6,
+    "genre": "中華",
+    "purpose": "打ち上げ"
+  }
+}]
