@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "60e029fb76ac86a3c61f51c6"
+  },
+  "name": "らいらい軒",
+  "open": [
+    "月～木 16:00～0:00",
+    "金～日 16:00～2:00"
+  ],
+  "park": 5,
+  "payment": [
+    "AriPay",
+    "クレジットカード",
+    "PayPay"
+  ],
+  "seatType": [
+    "8人掛けテーブル/6席",
+    "カウンター/5席"
+  ],
+  "phoneNumber": "123-45-1234",
+  "notSmokingSeat": "あり",
+  "adress": "福岡県北九州市小倉北区123-4",
+  "tag": {
+    "budjet": {
+      "min": 1000,
+      "max": 2000
+    },
+    "numberOfPeople": 6,
+    "genre": "中華",
+    "purpose": "打ち上げ"
+  },
+  "menu": [
+    {
+      "category": "ラーメン",
+      "cuisine": [
+        {
+          "name": "豚骨ラーメン",
+          "price": 600
+        },
+        {
+          "name": "味噌ラーメン",
+          "price": 650
+        }
+      ]
+    },
+    {
+      "category": "セットメニュー",
+      "cuisine": [
+        {
+          "name": "チャーハン",
+          "price": 300
+        },
+        {
+          "name": "餃子",
+          "price": 300
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60e0273d76ac86a3c61f51c4"
+  },
+  "name": "居酒屋丸",
+  "open": [
+    "月～木 16:00～0:00",
+    "金～日 16:00～2:00"
+  ],
+  "park": 8,
+  "payment": [
+    "現金",
+    "クレジットカード"
+  ],
+  "seatType": [
+    "6人掛けテーブル/４席",
+    "カウンター/8席"
+  ],
+  "phoneNumber": "123-45-6789",
+  "notSmokingSeat": "あり",
+  "adress": "福岡県飯塚市横田123-45",
+  "tag": {
+    "budjet": {
+      "min": 1000,
+      "max": 2000
+    },
+    "numberOfPeople": 4,
+    "genre": "和食",
+    "purpose": "打ち上げ"
+  },
+  "menu": [
+    {
+      "category": "焼き串",
+      "cuisine": [
+        {
+          "name": "鶏もも",
+          "price": 150
+        },
+        {
+          "name": "豚バラ",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "category": "刺身",
+      "cuisine": [
+        {
+          "name": "3種盛",
+          "price": 600
+        },
+        {
+          "name": "6種盛",
+          "price": 1000
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60e028ba76ac86a3c61f51c5"
+  },
+  "name": "イタリアレストランvongole",
+  "open": [
+    "月～木 16:00～0:00",
+    "金～日 16:00～2:00"
+  ],
+  "park": 3,
+  "payment": [
+    "現金",
+    "クレジットカード",
+    "PayPay"
+  ],
+  "seatType": [
+    "4人掛けテーブル/10席"
+  ],
+  "phoneNumber": "123-45-9876",
+  "notSmokingSeat": "なし",
+  "adress": "福岡県福岡市中央区大名1-1-1",
+  "tag": {
+    "budjet": {
+      "min": 2000,
+      "max": 4000
+    },
+    "numberOfPeople": 2,
+    "genre": "イタリアン",
+    "purpose": "会食"
+  },
+  "menu": [
+    {
+      "category": "パスタ",
+      "cuisine": [
+        {
+          "name": "ペペロンチーノ",
+          "price": 550
+        },
+        {
+          "name": "カルボナーラ",
+          "price": 600
+        }
+      ]
+    },
+    {
+      "category": "ピザ",
+      "cuisine": [
+        {
+          "name": "マルゲリータ",
+          "price": 750
+        },
+        {
+          "name": "ビスマルク",
+          "price": 800
+        }
+      ]
+    }
+  ]
+}]
