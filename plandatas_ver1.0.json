@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "60ee93cc730107d82720848c"
+  },
+  "name": "ディナーコース",
+  "tag": {
+    "genre": "イタリアン",
+    "purpose": "会食",
+    "budjet": 4000
+  },
+  "shopID": "60e028ba76ac86a3c61f51c5"
+},{
+  "_id": {
+    "$oid": "60ee93d2730107d82720848d"
+  },
+  "name": "食べ放題コース",
+  "tag": {
+    "genre": "中華",
+    "numberOfPeople": 1,
+    "budjet": 2000
+  },
+  "shopID": "60e029fb76ac86a3c61f51c6"
+},{
+  "_id": {
+    "$oid": "60ee93d3730107d82720848e"
+  },
+  "name": "ランチコース",
+  "tag": {
+    "genre": "イタリアン",
+    "purpose": "昼食",
+    "budjet": 2000,
+    "numberOfPeople": 4
+  },
+  "shopID": "60e028ba76ac86a3c61f51c5"
+},{
+  "_id": {
+    "$oid": "60ee93d4730107d82720848f"
+  },
+  "name": "日本酒飲み放題コース",
+  "tag": {
+    "genre": "和食",
+    "purpose": "飲み会",
+    "budjet": 2000,
+    "numberOfPeople": 4
+  },
+  "shopID": "60e0273d76ac86a3c61f51c4"
+},{
+  "_id": {
+    "$oid": "60ee93d4730107d827208490"
+  },
+  "name": "ビール飲み放題コース",
+  "tag": {
+    "genre": "洋食",
+    "purpose": "飲み会",
+    "budjet": 2000,
+    "numberOfPeople": 4
+  },
+  "shopID": "60e0273d76ac86a3c61f51c4"
+},{
+  "_id": {
+    "$oid": "60ee93d4730107d827208491"
+  },
+  "name": "海鮮食べ放題コース",
+  "tag": {
+    "genre": "魚介類",
+    "purpose": "飲み会",
+    "budjet": 2000,
+    "numberOfPeople": 4
+  },
+  "shopID": "60e0273d76ac86a3c61f51c4"
+},{
+  "_id": {
+    "$oid": "60ee93ea730107d827208492"
+  },
+  "name": "日替わりコース",
+  "tag": {
+    "genre": "中華",
+    "numerOfPeople": 1,
+    "budjet": "1000"
+  },
+  "shopID": "60e029fb76ac86a3c61f51c"
+}]
