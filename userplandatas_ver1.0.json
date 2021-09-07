@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6134a7c723f6ea0867460279"
+  },
+  "title": "営業課飲み会",
+  "tag": [
+    "飲み会",
+    "和食"
+  ],
+  "place": "居酒屋丸",
+  "numberOfPeople": 5,
+  "budget": 3000,
+  "openTime": "20200713190000",
+  "closeTime": "20200713193000",
+  "created_at": "20200711090324",
+  "updated_at": "20200711090324",
+  "comment": "クーポンください",
+  "userName": "yamada",
+  "userId": "6135a7307987bc19949d7a61"
+},{
+  "_id": {
+    "$oid": "6134a80123f6ea086746027a"
+  },
+  "title": "学祭打ち上げ",
+  "tag": [
+    "飲み会",
+    "和食"
+  ],
+  "place": "居酒屋丸",
+  "numberOfPeople": 6,
+  "budget": 3000,
+  "openTime": "20191113200000",
+  "closeTime": "20191113210000",
+  "created_at": "20191031093324",
+  "updated_at": "20191121190354",
+  "comment": "クーポンください",
+  "userName": "watanabe",
+  "userId": "6135ac9f7987bc19949d7a62"
+},{
+  "_id": {
+    "$oid": "6134a81223f6ea086746027b"
+  },
+  "title": "懇親会",
+  "tag": [
+    "飲み会",
+    "和食"
+  ],
+  "place": "居酒屋丸",
+  "numberOfPeople": 4,
+  "budget": 3000,
+  "openTime": "20210121180000",
+  "closeTime": "20210121210000",
+  "created_at": "20210105192340",
+  "updated_at": "20210106110433",
+  "comment": "クーポンください",
+  "userName": "yamada",
+  "userId": "6135a7307987bc19949d7a61"
+},{
+  "_id": {
+    "$oid": "6134a82c23f6ea086746027c"
+  },
+  "title": "新歓コンパ",
+  "tag": [
+    "飲み会",
+    "和食"
+  ],
+  "place": "居酒屋丸",
+  "numberOfPeople": 5,
+  "budget": 3000,
+  "openTime": "20180421000000",
+  "closeTime": "20180421023000",
+  "created_at": "20180403111202",
+  "updated_at": "20180403111202",
+  "comment": "クーポンください",
+  "userName": "watanabe",
+  "userId": "6135ac9f7987bc19949d7a62"
+}]
