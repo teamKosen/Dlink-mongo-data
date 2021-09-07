@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6135a7307987bc19949d7a61"
+  },
+  "email": "yamada@gmail.com",
+  "password": "$2a$10$W3QZdBrxHGPunuyu4nkpuefyRixfGomp8AUuP/trd1RmVVvmhoI1a",
+  "name": "yamada",
+  "userType": "幹事"
+},{
+  "_id": {
+    "$oid": "6135ac9f7987bc19949d7a62"
+  },
+  "email": "watanabe@gmail.com",
+  "password": "$2a$10$hMNh7QBh5JrrRhNqHmCLRe7j3twIErOTtf9g1f7eaHo707WyHJRoC",
+  "name": "watanabe",
+  "userType": "幹事"
+}]
