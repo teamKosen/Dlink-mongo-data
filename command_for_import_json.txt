@@ -1,0 +1,1 @@
+mongoimport --db <データベース名> --collection <コレクション名> --drop --file <jsonファイル名> --jsonArray
