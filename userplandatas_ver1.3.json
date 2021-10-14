@@ -4,10 +4,10 @@
   },
   "title": "営業課飲み会",
   "tag": [
-    "飲み会",
-    "和食"
+    "打ち上げ",
+    "中華"
   ],
-  "place": "居酒屋丸",
+  "place": "らいらい軒",
   "numberOfPeople": 5,
   "budget": 3000,
   "openTime": {
@@ -31,12 +31,12 @@
   },
   "title": "学祭打ち上げ",
   "tag": [
-    "飲み会",
-    "和食"
+    "和食",
+    "打ち上げ"
   ],
   "place": "居酒屋丸",
   "numberOfPeople": 6,
-  "budget": 3000,
+  "budget": 4000,
   "openTime": {
     "$date": "2021-10-14T11:00:00Z"
   },
@@ -85,12 +85,12 @@
   },
   "title": "新歓コンパ",
   "tag": [
-    "飲み会",
-    "和食"
+    "イタリアン",
+    "会食"
   ],
-  "place": "居酒屋丸",
+  "place": "イタリアンレストラン",
   "numberOfPeople": 5,
-  "budget": 3000,
+  "budget": 5000,
   "openTime": {
     "$date": "2021-12-20T15:00:00Z"
   },
