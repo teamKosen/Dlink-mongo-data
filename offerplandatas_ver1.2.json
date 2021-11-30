@@ -2,7 +2,7 @@
   "_id": {
     "$oid": "6148455b7202e82518783d9b"
   },
-  "budjet": 3000,
+  "budget": 3000,
   "numberOfPeople": 6,
   "shopname": "近江屋",
   "place": "福岡",
@@ -12,6 +12,7 @@
   "shopEmail": "syuusui@gmail.com",
   "userPlanId": "61484b912732c845b0f17a91",
   "comment": "こんにちは！近江屋です。お待ちしています！",
+  "offerState": 1,
   "openTime": {
     "$date": "2021-11-13T10:00:00Z"
   },
@@ -22,7 +23,7 @@
   "_id": {
     "$oid": "61484c217202e82518783d9c"
   },
-  "budjet": 5000,
+  "budget": 5000,
   "numberOfPeople": 4,
   "shopname": "池田屋",
   "place": "福岡",
@@ -32,6 +33,7 @@
   "shopEmail": "enma@gmail.com",
   "userPlanId": "61484b912732c845b0f17a91",
   "comment": "こんにちは！池田屋と申します。霜月殿の投稿を拝見しぜひとも我々のお店を紹介したくご連絡差し上げました。いろいろとプランを用意しているので是非とも参考にしていただきたいです。",
+  "offerState": 1,
   "openTime": {
     "$date": "2021-11-13T10:00:00Z"
   },
@@ -42,7 +44,7 @@
   "_id": {
     "$oid": "61484df17202e82518783d9d"
   },
-  "budjet": 3000,
+  "budget": 3000,
   "numberOfPeople": 6,
   "shopname": "寺田屋",
   "place": "福岡",
@@ -52,6 +54,7 @@
   "shopEmail": "syuusui@gmail.com",
   "userPlanId": "61484c2a2732c845b0f17a92",
   "comment": "こんにちは！寺田屋と申します。霜月殿の投稿を拝見しぜひとも我々のお店を紹介したくご連絡差し上げました。いろいろとプランを用意しているので是非とも参考にしていただきたいです。",
+  "offerState": 1,
   "openTime": {
     "$date": "2021-11-13T10:00:00Z"
   },
