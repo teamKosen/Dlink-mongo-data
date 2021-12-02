@@ -21,7 +21,7 @@
   "notSmokingSeat": "あり",
   "adress": "福岡県北九州市小倉北区123-4",
   "tag": {
-    "budjet": {
+    "budget": {
       "min": 1000,
       "max": 2000
     },
@@ -79,7 +79,7 @@
   "notSmokingSeat": "あり",
   "adress": "福岡県飯塚市横田123-45",
   "tag": {
-    "budjet": {
+    "budget": {
       "min": 1000,
       "max": 2000
     },
@@ -137,7 +137,7 @@
   "notSmokingSeat": "なし",
   "adress": "福岡県福岡市中央区大名1-1-1",
   "tag": {
-    "budjet": {
+    "budget": {
       "min": 2000,
       "max": 4000
     },
