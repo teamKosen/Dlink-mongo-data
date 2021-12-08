@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6148455b7202e82518783d9b"
+  },
+  "budget": 3000,
+  "numberOfPeople": 10,
+  "shopname": "近江屋",
+  "title": "営業課飲み会",
+  "userName": "yamada",
+  "place": "福岡",
+  "shopId": "612dc3a6108e1f057c79be71",
+  "tel": "09011112222",
+  "URL": "https://tabelog.com/",
+  "shopEmail": "syuusui@gmail.com",
+  "userPlanId": "61484b912732c845b0f17a91",
+  "comment": "こんにちは！近江屋です。お待ちしています！",
+  "offerState": 2,
+  "openTime": {
+    "$date": "2021-11-13T10:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-11-13T11:30:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61484c217202e82518783d9c"
+  },
+  "budget": 5000,
+  "numberOfPeople": 8,
+  "shopname": "池田屋",
+  "title": "営業課飲み会",
+  "userName": "yamada",
+  "place": "福岡",
+  "shopId": "612dc8ad08299908fdc20005",
+  "tel": "09011112222",
+  "URL": "https://tabelog.com/",
+  "shopEmail": "enma@gmail.com",
+  "userPlanId": "61484b912732c845b0f17a91",
+  "comment": "こんにちは！池田屋と申します。霜月殿の投稿を拝見しぜひとも我々のお店を紹介したくご連絡差し上げました。いろいろとプランを用意しているので是非とも参考にしていただきたいです。",
+  "offerState": 1,
+  "openTime": {
+    "$date": "2021-11-13T10:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-11-13T11:30:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61484df17202e82518783d9d"
+  },
+  "budget": 3000,
+  "numberOfPeople": 6,
+  "shopname": "寺田屋",
+  "title": "学祭打ち上げ",
+  "userName": "watanabe",
+  "place": "福岡",
+  "shopId": "612dc3a6108e1f057c79be71",
+  "tel": "09011112222",
+  "URL": "https://tabelog.com/",
+  "shopEmail": "syuusui@gmail.com",
+  "userPlanId": "61484c2a2732c845b0f17a92",
+  "comment": "こんにちは！寺田屋と申します。霜月殿の投稿を拝見しぜひとも我々のお店を紹介したくご連絡差し上げました。いろいろとプランを用意しているので是非とも参考にしていただきたいです。",
+  "offerState": 1,
+  "openTime": {
+    "$date": "2021-11-13T10:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-11-13T11:30:00Z"
+  }
+}]
