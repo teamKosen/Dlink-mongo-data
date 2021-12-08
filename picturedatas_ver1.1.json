@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "60f2d403319b1c3bf83444f2"
+  },
+  "shopId": "60e029fb76ac86a3c61f51c6",
+  "picturePath": "/asset/ebitiri.jpeg"
+},{
+  "_id": {
+    "$oid": "60f2d489319b1c3bf83444ff"
+  },
+  "shopId": "60e0273d76ac86a3c61f51c4",
+  "picturePath": "/asset/was0013-049.jpg"
+},{
+  "_id": {
+    "$oid": "60f2d4a1319b1c3bf8344500"
+  },
+  "shopId": "60e028ba76ac86a3c61f51c5",
+  "picturePath": "/asset/yos0006-001.jpg"
+},{
+  "_id": {
+    "$oid": "60f2f13f06dab8c1016f7d38"
+  },
+  "shopId": "60e029fb76ac86a3c61f51c6",
+  "picturePath": "/asset/seiro.jpeg"
+},{
+  "_id": {
+    "$oid": "60f2f16906dab8c1016f7d39"
+  },
+  "shopId": "60e029fb76ac86a3c61f51c6",
+  "picturePath": "/asset/tenshinhan.jpeg"
+},{
+  "_id": {
+    "$oid": "60f2f1b306dab8c1016f7d3a"
+  },
+  "shopId": "60e0273d76ac86a3c61f51c4",
+  "picturePath": "/asset/was0016-054.jpg"
+},{
+  "_id": {
+    "$oid": "60f2f23b06dab8c1016f7d3b"
+  },
+  "shopId": "60e028ba76ac86a3c61f51c5",
+  "picturePath": "/asset/yos0024-054.jpg"
+},{
+  "_id": {
+    "$oid": "60f2f25a06dab8c1016f7d3c"
+  },
+  "shopId": "60e028ba76ac86a3c61f51c5",
+  "picturePath": "/asset/yos0023-054.jpg"
+},{
+  "_id": {
+    "$oid": "60f2f2b106dab8c1016f7d3d"
+  },
+  "shopId": "60e0273d76ac86a3c61f51c4",
+  "picturePath": "/asset/was0023-123.jpg"
+},{
+  "_id": {
+    "$oid": "61af2a95df8d0c5313160917"
+  },
+  "shopId": "61af227d45a88f6fac74d259",
+  "picturePath": "/asset/adpDSC_6501.jpg"
+},{
+  "_id": {
+    "$oid": "61af2b5fdf8d0c5313160918"
+  },
+  "shopId": "61af180d45a88f6fac74d258",
+  "picturePath": "/asset/adpDSC_6607.jpg"
+},{
+  "_id": {
+    "$oid": "61af31cbdf8d0c5313160919"
+  },
+  "shopId": "61af253445a88f6fac74d25a",
+  "picturePath": "/asset/shabushabu.jpeg"
+},{
+  "_id": {
+    "$oid": "61af3a30df8d0c531316091c"
+  },
+  "shopId": "61af337bdf8d0c531316091a",
+  "picturePath": "/asset/0adpDSC_1669.jpg"
+},{
+  "_id": {
+    "$oid": "61af3abddf8d0c531316091d"
+  },
+  "shopId": "61af37a3df8d0c531316091b",
+  "picturePath": "/asset/tenpura.jpeg"
+}]
