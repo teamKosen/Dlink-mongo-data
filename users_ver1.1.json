@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6129def29d4e373a6bdd81c5"
+  },
+  "email": "oil@gmail.com",
+  "password": "$2a$10$nD5Tq501fhzKQp0PnL6QNeEPyGRUFqVYLVleYmRh7.2TuhbxsBnii",
+  "name": "ヤマシタジュンイチ"
+},{
+  "_id": {
+    "$oid": "612dc1a1108e1f057c79be70"
+  },
+  "email": "abcd@gmail.com",
+  "password": "$2a$10$noiS4QlnSB34op9UewrS8u0.aBUzba1cIS82q/2qyvlmiQaD09uJu",
+  "name": "abcd",
+  "userType": "幹事"
+},{
+  "_id": {
+    "$oid": "612dc3a6108e1f057c79be71"
+  },
+  "email": "syuusui@gmail.com",
+  "password": "$2a$10$7tFG3yn5UEY.WEAwJVfAa.eRixNDxH0uC7N0/gS7x.5jIs5nwz0PS",
+  "name": "霜月",
+  "userType": "shop"
+},{
+  "_id": {
+    "$oid": "612dc8ad08299908fdc20005"
+  },
+  "email": "enma@gmail.com",
+  "password": "$2a$10$JrQA5jBT7VHtF8amdEefre0v6/2lt7KubI1fVuB1Km5Sz2psIGo42",
+  "name": "おでん",
+  "userType": "shop"
+},{
+  "_id": {
+    "$oid": "6135a7307987bc19949d7a61"
+  },
+  "email": "yamada@gmail.com",
+  "password": "$2a$10$W3QZdBrxHGPunuyu4nkpuefyRixfGomp8AUuP/trd1RmVVvmhoI1a",
+  "name": "yamada",
+  "userType": "幹事"
+},{
+  "_id": {
+    "$oid": "6135ac9f7987bc19949d7a62"
+  },
+  "email": "watanabe@gmail.com",
+  "password": "$2a$10$hMNh7QBh5JrrRhNqHmCLRe7j3twIErOTtf9g1f7eaHo707WyHJRoC",
+  "name": "watanabe",
+  "userType": "幹事"
+}]
