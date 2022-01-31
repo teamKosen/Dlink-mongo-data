@@ -1,0 +1,316 @@
+[{
+  "_id": {
+    "$oid": "60e029fb76ac86a3c61f51c6"
+  },
+  "name": "らいらい軒",
+  "open": [
+    "月～木 16:00～0:00",
+    "金～日 16:00～2:00"
+  ],
+  "park": 5,
+  "payment": [
+    "AriPay",
+    "クレジットカード",
+    "PayPay"
+  ],
+  "seatType": [
+    "8人掛けテーブル/6席",
+    "カウンター/5席"
+  ],
+  "phoneNumber": "123-45-1234",
+  "notSmokingSeat": "あり",
+  "place": "小倉",
+  "adress": "福岡県北九州市小倉北区123-4",
+  "tag": {
+    "budget": {
+      "min": 1000,
+      "max": 2000
+    },
+    "numberOfPeople": {
+      "min": 5,
+      "max": 7
+    },
+    "genre": [
+      "中華",
+      "和食"
+    ],
+    "purpose": [
+      "打ち上げ"
+    ]
+  },
+  "menu": [
+    {
+      "category": "ラーメン",
+      "cuisine": [
+        {
+          "name": "豚骨ラーメン",
+          "price": 600
+        },
+        {
+          "name": "味噌ラーメン",
+          "price": 650
+        }
+      ]
+    },
+    {
+      "category": "セットメニュー",
+      "cuisine": [
+        {
+          "name": "チャーハン",
+          "price": 300
+        },
+        {
+          "name": "餃子",
+          "price": 300
+        }
+      ]
+    }
+  ],
+  "plantag": [
+    {
+      "tag": "打ち上げ",
+      "number": 4
+    },
+    {
+      "tag": "送別会",
+      "number": 19
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60e0273d76ac86a3c61f51c4"
+  },
+  "name": "居酒屋丸",
+  "open": [
+    "月～木 16:00～0:00",
+    "金～日 16:00～2:00"
+  ],
+  "park": 8,
+  "payment": [
+    "現金",
+    "クレジットカード"
+  ],
+  "seatType": [
+    "6人掛けテーブル/４席",
+    "カウンター/8席"
+  ],
+  "phoneNumber": "123-45-6789",
+  "notSmokingSeat": "あり",
+  "place": "新飯塚",
+  "adress": "福岡県飯塚市横田123-45",
+  "tag": {
+    "budget": {
+      "min": 1000,
+      "max": 2000
+    },
+    "numberOfPeople": {
+      "min": 3,
+      "max": 5
+    },
+    "genre": [
+      "和食"
+    ],
+    "purpose": [
+      "打ち上げ"
+    ]
+  },
+  "menu": [
+    {
+      "category": "焼き串",
+      "cuisine": [
+        {
+          "name": "鶏もも",
+          "price": 150
+        },
+        {
+          "name": "豚バラ",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "category": "刺身",
+      "cuisine": [
+        {
+          "name": "3種盛",
+          "price": 600
+        },
+        {
+          "name": "6種盛",
+          "price": 1000
+        }
+      ]
+    }
+  ],
+  "plantag": [
+    {
+      "tag": "歓迎会",
+      "number": 1
+    },
+    {
+      "tag": "打ち上げ",
+      "number": 8
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60e028ba76ac86a3c61f51c5"
+  },
+  "name": "イタリアレストランvongole",
+  "open": [
+    "月～木 16:00～0:00",
+    "金～日 16:00～2:00"
+  ],
+  "park": 3,
+  "payment": [
+    "現金",
+    "クレジットカード",
+    "PayPay"
+  ],
+  "seatType": [
+    "4人掛けテーブル/10席"
+  ],
+  "phoneNumber": "123-45-9876",
+  "notSmokingSeat": "なし",
+  "place": "福岡市中央区",
+  "adress": "福岡県福岡市中央区大名1-1-1",
+  "tag": {
+    "budget": {
+      "min": 2000,
+      "max": 4000
+    },
+    "numberOfPeople": {
+      "min": 2,
+      "max": 2
+    },
+    "genre": [
+      "イタリアン",
+      "フレンチ",
+      "洋食"
+    ],
+    "purpose": [
+      "会食",
+      "打ち合わせ"
+    ]
+  },
+  "menu": [
+    {
+      "category": "パスタ",
+      "cuisine": [
+        {
+          "name": "ペペロンチーノ",
+          "price": 550
+        },
+        {
+          "name": "カルボナーラ",
+          "price": 600
+        }
+      ]
+    },
+    {
+      "category": "ピザ",
+      "cuisine": [
+        {
+          "name": "マルゲリータ",
+          "price": 750
+        },
+        {
+          "name": "ビスマルク",
+          "price": 800
+        }
+      ]
+    }
+  ],
+  "plantag": [
+    {
+      "tag": "打ち上げ",
+      "number": 2
+    },
+    {
+      "tag": "飲み会",
+      "number": 11
+    },
+    {
+      "tag": "歓迎会",
+      "number": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61af180d45a88f6fac74d258"
+  },
+  "name": "太平",
+  "open": [
+    "月～木 10:00～23:00",
+    "金～日 10:00～24:00"
+  ],
+  "park": 10,
+  "payment": [
+    "現金",
+    "クレジットカード"
+  ],
+  "seatType": [
+    "4人掛けテーブル/5席",
+    "6人掛けテーブル/2席",
+    "8人掛けテーブル/1席"
+  ],
+  "phoneNumber": "123-45-0001",
+  "notSmokingSeat": "あり",
+  "place": "新飯塚",
+  "adress": "福岡県飯塚市幸袋1-1-1",
+  "tag": {
+    "budget": {
+      "min": 2000,
+      "max": 4000
+    },
+    "numberOfPeople": {
+      "min": 2,
+      "max": 5
+    },
+    "genre": [
+      "中華",
+      "和食"
+    ],
+    "purpose": [
+      "打ち上げ"
+    ]
+  },
+  "menu": [
+    {
+      "category": "チャーハン",
+      "cuisine": [
+        {
+          "name": "ガーリックチャーハン",
+          "price": 550
+        },
+        {
+          "name": "キムチチャーハン",
+          "price": 600
+        }
+      ]
+    },
+    {
+      "category": "天津飯",
+      "cuisine": [
+        {
+          "name": "えび天津飯",
+          "price": 750
+        },
+        {
+          "name": "かに天津飯",
+          "price": 800
+        }
+      ]
+    }
+  ],
+  "plantag": [
+    {
+      "tag": "二次会",
+      "number": 300
+    },
+    {
+      "tag": "飲み会",
+      "number": 4
+    }
+  ]
+}]
