@@ -1,0 +1,219 @@
+[{
+  "_id": {
+    "$oid": "61484b912732c845b0f17a91"
+  },
+  "title": "営業課飲み会",
+  "tag": [
+    "飲み会",
+    "和食"
+  ],
+  "place": "博多",
+  "numberOfPeople": 10,
+  "budget": 3000,
+  "openTime": {
+    "$date": "2021-11-13T10:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-11-13T11:30:00Z"
+  },
+  "deadlineTime": {
+    "$date": "2021-09-18T09:00:00Z"
+  },
+  "create_at": {
+    "$date": "2021-09-20T08:51:28.663Z"
+  },
+  "comment": "クーポンください",
+  "userName": "yamada",
+  "userID": "6135a7307987bc19949d7a61",
+  "planState": 1
+},{
+  "_id": {
+    "$oid": "61484dd12732c845b0f17a95"
+  },
+  "title": "新歓コンパ",
+  "tag": [
+    "飲み会",
+    "和食"
+  ],
+  "place": "博多",
+  "numberOfPeople": 5,
+  "budget": 3000,
+  "openTime": {
+    "$date": "2021-12-20T15:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-12-20T17:30:00Z"
+  },
+  "deadlineTime": {
+    "$date": "2021-09-17T06:30:00Z"
+  },
+  "create_at": {
+    "$date": "2021-09-20T09:01:05.290Z"
+  },
+  "comment": "クーポンください",
+  "userName": "watanabe",
+  "userID": "6135ac9f7987bc19949d7a62",
+  "planState": 1
+},{
+  "_id": {
+    "$oid": "61484d3b2732c845b0f17a94"
+  },
+  "title": "懇親会",
+  "tag": [
+    "飲み会",
+    "和食"
+  ],
+  "place": "中州",
+  "numberOfPeople": 4,
+  "budget": 3000,
+  "openTime": {
+    "$date": "2021-12-21T09:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-12-21T12:00:00Z"
+  },
+  "deadlineTime": {
+    "$date": "2021-09-18T01:00:00Z"
+  },
+  "create_at": {
+    "$date": "2021-09-20T08:58:35.308Z"
+  },
+  "comment": "クーポンください",
+  "userName": "yamada",
+  "userID": "6135a7307987bc19949d7a61",
+  "planState": 1
+},{
+  "_id": {
+    "$oid": "61af8c42e02166299850a3f3"
+  },
+  "title": "忘年会",
+  "tag": [
+    "打ち上げ"
+  ],
+  "place": "新飯塚",
+  "numberOfPeople": 8,
+  "budget": 3000,
+  "openTime": {
+    "$date": "2021-12-29T09:30:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-12-29T14:00:00Z"
+  },
+  "deadlineTime": {
+    "$date": "2021-12-24T15:00:00Z"
+  },
+  "create_at": {
+    "$date": "2021-12-07T16:30:56.975Z"
+  },
+  "comment": "安くてたくさん食べたいです！",
+  "userName": "yamada",
+  "userID": "6135a7307987bc19949d7a61",
+  "planState": 1
+},{
+  "_id": {
+    "$oid": "61484c2a2732c845b0f17a92"
+  },
+  "title": "学祭打ち上げ",
+  "tag": [
+    "飲み会",
+    "和食"
+  ],
+  "place": "天神",
+  "numberOfPeople": 6,
+  "budget": 3000,
+  "openTime": {
+    "$date": "2021-10-14T11:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-10-14T12:00:00Z"
+  },
+  "deadlineTime": {
+    "$date": "2021-09-17T05:57:00Z"
+  },
+  "create_at": {
+    "$date": "2021-09-20T08:54:01.817Z"
+  },
+  "comment": "クーポンください",
+  "userName": "watanabe",
+  "userID": "6135ac9f7987bc19949d7a62",
+  "planState": 1
+},{
+  "_id": {
+    "$oid": "61b06a6c54a88e0ef43aa46a"
+  },
+  "title": "同窓会",
+  "tag": [
+    "同窓会"
+  ],
+  "place": "博多",
+  "numberOfPeople": 8,
+  "budget": 4000,
+  "openTime": {
+    "$date": "2021-12-29T10:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-12-29T14:00:00Z"
+  },
+  "deadlineTime": {
+    "$date": "2021-12-21T15:00:00Z"
+  },
+  "create_at": {
+    "$date": "2021-12-08T08:18:51.611Z"
+  },
+  "comment": "お酒たくさん飲みたい。",
+  "userName": "yamada",
+  "userID": "6135a7307987bc19949d7a61",
+  "planState": 1
+},{
+  "_id": {
+    "$oid": "61aee6d222548f2c7cff48ef"
+  },
+  "title": "歓迎会",
+  "tag": [],
+  "place": "新飯塚",
+  "numberOfPeople": 10,
+  "budget": 2000,
+  "openTime": {
+    "$date": "2022-04-16T09:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2022-04-16T12:00:00Z"
+  },
+  "deadlineTime": {
+    "$date": "2022-04-08T15:00:00Z"
+  },
+  "create_at": {
+    "$date": "2021-12-07T04:45:05.405Z"
+  },
+  "comment": "安くてたくさん食べれるのがいいです！",
+  "userName": "yamada",
+  "userID": "6135a7307987bc19949d7a61",
+  "planState": 1
+},{
+  "_id": {
+    "$oid": "61b03c8eb6eee646b4ed241e"
+  },
+  "title": "冬合宿",
+  "tag": [
+    "宴会"
+  ],
+  "place": "糸島",
+  "numberOfPeople": 20,
+  "budget": 4000,
+  "openTime": {
+    "$date": "2021-12-26T08:00:00Z"
+  },
+  "closeTime": {
+    "$date": "2021-12-26T11:00:00Z"
+  },
+  "deadlineTime": {
+    "$date": "2021-12-18T03:00:00Z"
+  },
+  "create_at": {
+    "$date": "2021-12-08T05:03:09.772Z"
+  },
+  "comment": "暖かい鍋とかがいいです。",
+  "userName": "yamada",
+  "userID": "6135a7307987bc19949d7a61",
+  "planState": 1
+}]
