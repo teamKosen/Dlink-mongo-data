@@ -85,34 +85,4 @@
   "update_at": {
     "$date": "2022-02-10T02:41:48.131Z"
   }
-},{
-  "_id": {
-    "$oid": "62047b7072f3db3500fc0c90"
-  },
-  "title": "営業課飲み会",
-  "budget": 3000,
-  "numberOfPeople": 10,
-  "tag": [],
-  "shopname": "おでん",
-  "place": "博多",
-  "shopId": "612dc8ad08299908fdc20005",
-  "tel": "test",
-  "URL": "test",
-  "shopEmail": "test",
-  "userPlanId": "61484b912732c845b0f17a91",
-  "userName": "yamada",
-  "comment": "test",
-  "offerState": 1,
-  "openTime": {
-    "$date": "2021-11-13T01:00:00Z"
-  },
-  "closeTime": {
-    "$date": "2021-11-13T02:30:00Z"
-  },
-  "create_at": {
-    "$date": "2022-02-10T02:41:48.131Z"
-  },
-  "update_at": {
-    "$date": "2022-02-10T02:41:48.131Z"
-  }
-}]
+}
